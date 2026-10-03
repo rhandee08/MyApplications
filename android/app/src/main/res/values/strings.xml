@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Phoenix Teams</string>
+    <string name="title_activity_main">Phoenix Teams</string>
+    <string name="package_name">com.phoenixvc.teamrandomizer</string>
+    <string name="custom_url_scheme">com.phoenixvc.teamrandomizer</string>
+</resources>
